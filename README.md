@@ -1,23 +1,29 @@
 ## Introduction
+
 Depression is a common mental health disorder affecting more than 300 million people worldwide.[1] It is
 one of the leading causes of disability and premature mortality preventing people from reaching their full
 potential.[1,2] One in every twelve American adults aged 20 and above had depression in a given two-week
 period during 2013-2016.[3] In 2017, more than 17 million adults in the United States were estimated to have
 at least one major depressive episode.[4]
+
 Depression disproportionately affects vulnerable subgroups of the population. For example, women are twice
 as likely as men to have depression.[3] Lower socioeconomic status was also found to be associated with higher
 rate of depression.[5] Despite the availability of successful psychological and pharmacological treatments for
 moderate and severe depression,[6] an estimated 56.3% of people with depression left untreated.[7]
+
 With a view to promoting remission, preventing relapse, and reducing emotional and financial burden of
 mental health diseases, it is imperative to emphasize on early detection, intervention, and appropriate
 treatment of depression.[8] An increasingly available large electronic medical records made it possible to
 apply advanced analytic approach to predict a range of health conditions.[9] In some cases, machine learning
-techniques may be able to outperform conventional discourse of clinical diagnosis and prognosis.[10,11] The
-1
-aim of this study was to predict depression with the available data in the US ambulatory healthcare setting
+techniques may be able to outperform conventional discourse of clinical diagnosis and prognosis.[10,11] 
+
+The aim of this study was to predict depression with the available data in the US ambulatory healthcare setting
 with the application of a range of machine learning techniques.
-3 Data Exploration
-Data Source: The data for this study was taken from the US National Ambulatory Medical Care Survey
+
+
+# Data Exploration
+
+**Data Source:** The data for this study was taken from the US National Ambulatory Medical Care Survey
 (NAMCS). The survey collects data on a national sample of ambulatory care services in the emergency and
 outpatient departments, and ambulatory surgery locations of noninstitutional general and short-stay hospitals.
 The details of the survey have been documented elsewhere.[12]
@@ -30,8 +36,9 @@ depression “includes affective disorders and major depressive disorders, such 
 psychogenic depression, and reactive depression.”[12]
 Predictors (features): To make the prediction models clinically relevant, the predictors were selected on
 previous literature.[1-8] The predictors considered in the models include:
-• Demographic variables:
-– Patient’s age: Since age was available as both numeric and categorical, an exploratory logistic
+
+**Demographic variables**
+* Patient’s age: Since age was available as both numeric and categorical, an exploratory logistic
 regression analysis was conducted with depression as the outcome variable. The model with age as
 a categorical variable had lower AIC (Akaike Information Criteria), and so it was later used in all
 the analysis.
@@ -41,7 +48,8 @@ the analysis.
 24.9), overweight and obesity (BMI: 25 and above), and missing or unknown. Insurance type:
 Private insurance, Medicare, Medicaid, Other, and Unknown or missing Geographic region in USA:
 Northeast, Midwest, South, and West
-• Risk behaviours
+
+**Risk behaviours**
 * Tobacco use: Never, Former, Current, Unknown or missing.
 * Substance abuse: Yes/no.
 * Alcohol misuse, abuse or dependence: Yes/no.
@@ -57,9 +65,7 @@ Northeast, Midwest, South, and West
 * Chronic obstructive pulmonary disease
 * Congestive heart failure
 * Coronary artery disease
-* Diabetes mellitus Type 1
 * Diabetes mellitus Type 2
-2
 * End-stage renal disease
 * Pulmonary embolism or deep vein thrombosis
 * HIV infection
