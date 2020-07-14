@@ -42,59 +42,59 @@ the analysis.
 Private insurance, Medicare, Medicaid, Other, and Unknown or missing Geographic region in USA:
 Northeast, Midwest, South, and West
 • Risk behaviours
-– Tobacco use: Never, Former, Current, Unknown or missing.
-– Substance abuse: Yes/no.
-– Alcohol misuse, abuse or dependence: Yes/no.
-– History of medication use: Number of medications used.
+* Tobacco use: Never, Former, Current, Unknown or missing.
+* Substance abuse: Yes/no.
+* Alcohol misuse, abuse or dependence: Yes/no.
+* History of medication use: Number of medications used.
 • Comorbidities (whether the patient currently had):
-– Alzheimer’s disease
-– Arthritis
-– Asthma
-– Depression
-– Cancer
-– Cerebrovascular disease
-– Chronic kidney disease
-– Chronic obstructive pulmonary disease
-– Congestive heart failure
-– Coronary artery disease
-– Diabetes mellitus Type 1
-– Diabetes mellitus Type 2
+* Alzheimer’s disease
+* Arthritis
+* Asthma
+* Depression
+* Cancer
+* Cerebrovascular disease
+* Chronic kidney disease
+* Chronic obstructive pulmonary disease
+* Congestive heart failure
+* Coronary artery disease
+* Diabetes mellitus Type 1
+* Diabetes mellitus Type 2
 2
-– End-stage renal disease
-– Pulmonary embolism or deep vein thrombosis
-– HIV infection
-– Hyperlipidemia
-– Hypertension
-– Obstructive sleep apnea
-– Osteoporosis
+* End-stage renal disease
+* Pulmonary embolism or deep vein thrombosis
+* HIV infection
+* Hyperlipidemia
+* Hypertension
+* Obstructive sleep apnea
+* Osteoporosis
 
 ## References
-[1] Patel V, Chisholm D, Parikh R, et al. Addressing the burden of mental, neurological, and substance use
+1. Patel V, Chisholm D, Parikh R, et al. Addressing the burden of mental, neurological, and substance use
 disorders: key messages from Disease Control Priorities. The Lancet. 2016;387(10028):1672-85.
-[2] Herrman H, Kieling C, McGorry P, et al. Reducing the global burden of depression: a Lancet–World
+2. Herrman H, Kieling C, McGorry P, et al. Reducing the global burden of depression: a Lancet–World
 Psychiatric Association Commission. The Lancet. 2019;393(10189):e42-3.
-[3] Brody DJ, Pratt LA, Hughes JP. Prevalence of Depression Among Adults Aged 20 and Over: United
+3. Brody DJ, Pratt LA, Hughes JP. Prevalence of Depression Among Adults Aged 20 and Over: United
 States, 2013-2016. NCHS Data Brief. 2018;(303):1-8.
 15
-[4] National Institute of Mental Health. Major depression. February 2019. URL: https://www.nimh.nih.gov
+4. National Institute of Mental Health. Major depression. February 2019. URL: https://www.nimh.nih.gov
 /health/statistics/major-depression.shtml
-[5] Freeman A, Tyrovolas S, Koyanagi A, et al. The role of socio-economic status in depression: results from
+5. Freeman A, Tyrovolas S, Koyanagi A, et al. The role of socio-economic status in depression: results from
 the COURAGE (aging survey in Europe). BMC Public Health. 2016;16(1):1098.
-[6] World Health Organization. Depression: Key Facts. December 4, 2019. URL: https://www.who.int/newsroom/
+6. World Health Organization. Depression: Key Facts. December 4, 2019. URL: https://www.who.int/newsroom/
 fact-sheets/detail/depression
-[7] Kohn R, Saxena S, Levav I, Saraceno B. The treatment gap in mental health care. Bulletin of the World
+7. Kohn R, Saxena S, Levav I, Saraceno B. The treatment gap in mental health care. Bulletin of the World
 Health Organization. 2004;82(11):858–66.
-[8] Halfin A. Depression: the benefits of early and appropriate treatment. American Journal of Managed
+8. Halfin A. Depression: the benefits of early and appropriate treatment. American Journal of Managed
 Care. 2007;13(4 Suppl):S92-7.
-[9] Chen JH, Asch SM. Machine learning and prediction in medicine—beyond the peak of inflated expectations.
+9. Chen JH, Asch SM. Machine learning and prediction in medicine—beyond the peak of inflated expectations.
 New England Journal of Medicine. 2017;376(26):2507.
-[10] Obermeyer Z, Emanuel EJ. Predicting the future—big data, machine learning, and clinical medicine.
+10. Obermeyer Z, Emanuel EJ. Predicting the future—big data, machine learning, and clinical medicine.
 New England Journal of Medicine. 2016;375(13):1216.
-[11] McKinney, S.M., Sieniek, M., Godbole, V. et al. International evaluation of an AI system for breast
+11. McKinney, S.M., Sieniek, M., Godbole, V. et al. International evaluation of an AI system for breast
 cancer screening. Nature. 2020;577:89–94.
-[12] National Health Care Surveys Registry. 2014 NAMCS MICRO-DATA FILE DOCUMENTATION. URL:
+12. National Health Care Surveys Registry. 2014 NAMCS MICRO-DATA FILE DOCUMENTATION. URL:
 ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NAMCS/doc2014.pdf.
-[13] Ladapo JA, Larochelle MR, Chen A, et al. Physician prescribing of opioids to patients at increased risk
+13. Ladapo JA, Larochelle MR, Chen A, et al. Physician prescribing of opioids to patients at increased risk
 of overdose from benzodiazepine use in the United States. JAMA psychiatry. 2018;75(6):623-30.
-[14] Fluss R, Faraggi D, Reiser B. Estimation of the Youden Index and its associated cutoff point. Biometrical
+14. Fluss R, Faraggi D, Reiser B. Estimation of the Youden Index and its associated cutoff point. Biometrical
 Journal: Journal of Mathematical Methods in Biosciences. 2005;47(4):458-72.
