@@ -35,9 +35,9 @@ previous literature.[1-8] The predictors considered in the models include:
 regression analysis was conducted with depression as the outcome variable. The model with age as
 a categorical variable had lower AIC (Akaike Information Criteria), and so it was later used in all
 the analysis.
-– Sex: Male and female.
-– Race: White, Black, and Other.
-– Body-mass index (BMI): Classified as Underweight (BMI <18.5), normal weight (BMI: 18.5-
+* Sex: Male and female.
+* Race: White, Black, and Other.
+* Body-mass index (BMI): Classified as Underweight (BMI <18.5), normal weight (BMI: 18.5-
 24.9), overweight and obesity (BMI: 25 and above), and missing or unknown. Insurance type:
 Private insurance, Medicare, Medicaid, Other, and Unknown or missing Geographic region in USA:
 Northeast, Midwest, South, and West
